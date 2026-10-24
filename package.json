@@ -1,0 +1,9 @@
+{
+ "name":"noorin-coin-bot-v7",
+ "version":"7.0.0",
+ "description":"Noorin economy bot with Arabic text commands, profile cards, giveaways, boxes and withdrawals",
+ "main":"index.js",
+ "scripts":{"start":"node index.js"},
+ "engines":{"node":">=20"},
+ "dependencies":{"discord.js":"^14.22.1","sharp":"^0.34.3"}
+}
